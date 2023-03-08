@@ -1,0 +1,2 @@
+import{q as i,X as c,b as p,c as A,by as r}from"./index-4a1c513c.js";const s=i(c.Addresses.BAL);function l(e){return r(e,s)}function m(){const{getToken:e,wrappedNativeAsset:n,nativeAsset:a}=p(),d=A(()=>e(s));function o(u){return u.map(t=>r(t,n.value.address)?a.address:t)}return{balAddress:s,balToken:d,isBalAddress:l,replaceWethWithEth:o}}export{m as u};
+//# sourceMappingURL=useTokenHelpers-ddc69531.js.map

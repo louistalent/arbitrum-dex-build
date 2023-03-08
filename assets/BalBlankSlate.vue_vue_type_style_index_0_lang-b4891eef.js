@@ -1,0 +1,2 @@
+import{d as s,c as l,s as o,G as r,aT as c,H as i,ah as p,v as _}from"./index-4a1c513c.js";const u=s({__name:"BalBlankSlate",props:{align:{default:"start"}},setup(a){const e=a,n=l(()=>({"items-start":e.align==="start","items-center":e.align==="center","items-end":e.align==="end"}));return(t,d)=>(o(),r("div",{class:p(["bal-blank-slate text-secondary",_(n)])},[c(t.$slots,"default",{textContent:i(t.$t("noContent"))})],2))}});export{u as _};
+//# sourceMappingURL=BalBlankSlate.vue_vue_type_style_index_0_lang-b4891eef.js.map

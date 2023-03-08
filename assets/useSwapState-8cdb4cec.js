@@ -1,0 +1,2 @@
+import{e,as as o}from"./index-4a1c513c.js";const n=e({initialized:!1,tokenInAddress:"",tokenOutAddress:"",tokenInAmount:"",tokenOutAmount:""});function s(t){n.initialized=t}function u(t){n.tokenInAddress=t}function i(t){n.tokenOutAddress=t}function d(t){n.tokenInAmount=t}function a(t){n.tokenOutAmount=t}function r(){return{...o(n),setTokenInAddress:u,setTokenOutAddress:i,setTokenInAmount:d,setTokenOutAmount:a,setInitialized:s}}export{r as u};
+//# sourceMappingURL=useSwapState-8cdb4cec.js.map
